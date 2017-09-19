@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Potrait mode:
-<img src='https://i.imgur.com/ESKSjYx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/oBXITlq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Landscape mode:
-<img src='https://i.imgur.com/KGtFj7W.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DvsT1HR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
