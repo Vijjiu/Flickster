@@ -48,7 +48,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Image place holder sizing has been a challenge.
 
 ## Open-source libraries used
 
