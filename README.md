@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Display a nice default [placeholder graphic](http://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library#configuring-picasso) for each image during loading.
+* [*] Display a nice default [placeholder graphic](http://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library#configuring-picasso) for each image during loading.
 
 The following **bonus** features are implemented:
 
@@ -32,17 +32,18 @@ The following **bonus** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [*] List anything else that you can get done to improve the app functionality!
+Better UI styles
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 Potrait mode:
-<img src='https://i.imgur.com/oBXITlq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/QtDWUr6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Landscape mode:
-<img src='https://i.imgur.com/DvsT1HR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/YkfGmGr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
