@@ -54,10 +54,11 @@ public class MovieArrayAdapter extends ArrayAdapter<Movie> {
         // figure out how to check orientation
         int orientation = this.getContext().getResources().getConfiguration().orientation;
         if (orientation == Configuration.ORIENTATION_PORTRAIT) {
-            Picasso.with(getContext()).load(movie.getPosterPath()).into(ivImage);
+            // placeholder holds temp img while the actual image is loaded
+            Picasso.with(getContext()).load(movie.getPosterPath()).fit().placeholder(R.mipmap.movie_list_placeholder).into(ivImage);
         }
         else{
-            Picasso.with(getContext()).load(movie.getBackdropImage()).into(ivImage);
+            Picasso.with(getContext()).load(movie.getBackdropImage()).fit().placeholder(R.mipmap.movie_list_placeholder).into(ivImage);
         }
         return convertView;
     }
